@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=netwerkfix&label=Profile%20views&color=0e75b6&style=flat" alt="netwerkfix" /> </p>
 
-- 🔭 I’m currently working on [FriendlyWAF]
+- 🔭 I’m currently working on **FriendlyWAF**
 
 - 🌱 I’m currently learning **Anti-DDoS Systems**
 
