@@ -22,7 +22,7 @@
 <a href="https://www.linkedin.com/in/damien-coopmans-417a88205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="damien coopmans" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100009034806736" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="damien coopmans" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@netwerkfix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="netwerkfix" height="30" width="40" /></a>
-<a href="https://discord.gg/netwerkfix#0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="netwerkfix#0001" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="netwerkfix#0001" height="30" width="40" /></a>
 </p><br>
 
 <h3 align="left">Languages and Tools:</h3>
