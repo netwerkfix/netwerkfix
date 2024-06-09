@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Linux or Open-Source Projects**
 
-- 📫 How to reach me **friendlywaf@gmail.com**
+- 📫 How to reach me **damiencoopmans@gmail.com**
 
 - ⚡ Fun fact **I love Security tooling**
 
