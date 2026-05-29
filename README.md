@@ -15,4 +15,3 @@
 - ⚡ Fun fact **I love Security tooling**
   
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=netwerkfix&show_icons=true&locale=en" alt="netwerkfix" /><br>
