@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=netwerkfix&label=Profile%20views&color=0e75b6&style=flat" alt="netwerkfix" /> </p>
 
-- 🔭 I’m currently working on **AI Ollama and Open Claw**
+- 🔭 I’m currently working on **AI Ollama and Open Claw \ Hermes Agents**
 
 - 🌱 I’m currently learning **AI Systems**
 
-- 💬 Ask me about **Linux or Open-Source Projects**
+- 💬 Ask me about **Linux or Open-Source Projects And Networking | Security**
 
 - 📫 How to reach me **damiencoopmans@gmail.com**
 
